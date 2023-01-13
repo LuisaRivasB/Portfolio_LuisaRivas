@@ -42,6 +42,7 @@ body {
     display: flex;
     width: 100%;
     justify-content: space-around;
+    color: #ffffff;
 }
 
 .ul {
@@ -275,6 +276,12 @@ h6 {
 
 .img-contacto {
     margin: 0 auto;
+}
+
+.Check-Code {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: solid;
 }
 
 
